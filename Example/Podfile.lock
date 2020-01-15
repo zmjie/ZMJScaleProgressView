@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - ZMJScaleProgressView (0.0.1)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - ZMJScaleProgressView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  ZMJScaleProgressView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ZMJScaleProgressView: 59fd7209732dee3268534f384d9dd77b04b33c55
+
+PODFILE CHECKSUM: 56a40606386b1a4d81f1b014ad4070ee30247cc2
+
+COCOAPODS: 1.8.4

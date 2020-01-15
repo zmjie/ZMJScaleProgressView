@@ -1,0 +1,15 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZMJScaleProgressView_Example' do
+  pod 'ZMJScaleProgressView', :path => '../'
+
+  pod 'Masonry', '~> 1.1.0'
+  
+  target 'ZMJScaleProgressView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

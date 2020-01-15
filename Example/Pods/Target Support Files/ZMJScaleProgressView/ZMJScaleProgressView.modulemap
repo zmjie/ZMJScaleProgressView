@@ -1,0 +1,6 @@
+framework module ZMJScaleProgressView {
+  umbrella header "ZMJScaleProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}
